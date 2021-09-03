@@ -8,7 +8,7 @@ There were some outliers present in the data which were removed by using IQR and
 <br>
 <img src="https://github.com/nilay121/Particle-Identification/blob/main/kde plot.png">
 ### Model Creation
-I wrote a Custom SVM Class to test how it performs with the SVM of Scikit Learn and other ML models.I considered three models for this task Custom SVM, SVM Sklearn and Random Forest Classifier.I trained all the three models with default parameters and tested it on the validation set.SVM of Sklearn and Random forest performed nearly the same but the
+I wrote a Custom SVM Class to test how it performs with the SVM of Scikit-Learn and other ML models.I considered three models for this task Custom SVM, SVM Sklearn and Random Forest Classifier.I trained all the three models with default parameters and tested it on the validation set.SVM of Sklearn and Random forest performed nearly the same but the
 custom SVM had accuracy little lesser than the other two models.
 
 ### Performance Metric
